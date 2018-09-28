@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    it helps me to identify and get the differences more and more faster.
+    
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    My changes or updates is for a reason
+    so my future depends on the need of today
+    so knowing the old versions will help me to 
+    be better in understanding the reason of my updates.
+    but still want to know what other features that i don't know that will impact on my Programming Experience .
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    i prefer manually is better than automatically because there is no clear repetative time to make a commit , the world changes and requirements and problems changed too ,that is why we need to commit .
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    in most cases , google docs don't deal with related files much (it doesn't save code files directly) so no need to save multiple files ,but Git deals most with coding files that require saving multiple files because the strong relationship between those files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    first i run git log to see all the commits and after that i choose the two commit ids and copy it and paste with command get diff of these two commit ids.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I can do any changes ,without fear to lose my old working versions , it will be there and i can back to it anytime i want by using git checkout command.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use it developing android apps
