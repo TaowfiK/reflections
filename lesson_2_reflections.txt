@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+	it makes a .git (hidden file) in my directory,and i need it for make a new project that has full control on it .
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	staging area is the component that uses our tracked files ,and the repository uses it but working directory is just the directory that carry the files itself (tracked and untracked).
+	the value of that is we dont use the directory itself and this is more protectful feature.
